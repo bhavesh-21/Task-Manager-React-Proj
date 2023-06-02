@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.bold{
+  font-family: cursive,"Sacramento" , serif;
+  font-style: italic;
+  font-size: 85px;
+  margin-top: 20px;
+  color: hsl(188.31deg 100% 9.45% / 71.9%);
+}
+
+.container{
+  /* white-space: nowrap; */
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
