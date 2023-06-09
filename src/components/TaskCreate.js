@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.css'
 // import { useP a rams } from 'react-router-dom';
 // import { withRouter } from 'react-router-dom';
-const x = "https://k-ocf6.onrender.com";
+const x = "https://k-qaqx.onrender.com";
 
 
 
